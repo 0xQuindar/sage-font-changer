@@ -3,7 +3,7 @@
 ## Overview
 This script changes the font in Star Atlas SAGE to increase readability. 
 
-This is a screenshot of inventory without any changes.
+This is a screenshot of the inventory without any changes.
 ![Original SAGE inventory](screenshots/original.png)
 
 This is a screenshot with the script in normal mode. It changes the font in input fields to increase readability. Please note that input fields resize automatically depending on the number of digits and the script does not change this behavior. 
