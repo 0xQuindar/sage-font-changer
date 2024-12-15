@@ -1,4 +1,4 @@
-# SAGE Labs Font Fix
+# SAGE Font Changer
 
 ## Overview
 This script changes the font in Star Atlas SAGE to increase readability. 
